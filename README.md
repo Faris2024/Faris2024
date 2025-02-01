@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name] 
+# Hi there! 👋 I'm Faris 
 
 Welcome to my GitHub profile! I am a passionate [Your Role] with expertise in [Your Skills].
 
