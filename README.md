@@ -3,10 +3,10 @@
 Welcome to my GitHub profile! I am a passionate [Your Role] with expertise in [Your Skills].
 
 ## 🚀 About Me
-- 🔭 I’m currently working on: **[Project Name]**
-- 🌱 I’m currently learning: **[Technology or Skill]**
-- 💬 Ask me about: **[Your Expertise]**
-- 📫 How to reach me: **[Your Email or Social Links]**
+- 🔭 I’m currently working on: **AI-Powered Personal Assistant**
+- 🌱 I’m currently learning: **Blockchain Development**
+- 💬 Ask me about: **Web Development, Python, and Machine Learning**
+- 📫 How to reach me: **faris.dev@example.com**
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
