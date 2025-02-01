@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I am a passionate Shark diving, travelling and pla
 ![Project Image]([https://yourimageurl.com](https://www.google.com/search?sca_esv=f31b746926531fcc&rlz=1C1BNSD_enPK1145PK1145&sxsrf=AHTn8zqJ9MxrrUs_6UBu5wjkPGfe1Gjtvg:1738386582022&q=data+science+images&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBjLjqIC1CYKD9D-DQAQS3Z5NmlRTZM9mMZwadeXOSzf-8PnIPsW_lqR5nKLx8yt2aFT-S4nyu2nXbjKLe5eah86wZVg4rv6hD0D14WHKMMw3XmJ72TJxW7wXVIK76gP9akdXONU&sa=X&sqi=2&ved=2ahUKEwjupNDV2qGLAxXNgf0HHZuXIN0QtKgLegQIEBAB&biw=1600&bih=739&dpr=1#vhid=06s4-7KpA2dbnM&vssid=mosaic))
 
 ## 🔗 Connect with Me
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/farisalwaly/))
+[![LinkedIn](https://www.linkedin.com/in/farisalwaly)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourhandle)
 [![FaceBook](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
 [![Instagram](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
