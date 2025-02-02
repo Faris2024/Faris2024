@@ -16,6 +16,4 @@ Welcome to my GitHub profile! I am passionate about shark diving, traveling, and
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/farisalwaly)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourhandle)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook)](https://www.facebook.com/yourprofile)
-[![Instagram](https://img.shields.io/badge/-Instagram-blue?style=flat&logo=instagram)](https://www.instagram.com/yourprofile)
+
